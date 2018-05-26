@@ -11,5 +11,6 @@ package com.kasi.exercise;
 public class GitExercise {
     public static void main(String[] args) {
         System.out.println("git test...1");
+        System.out.println("git test...2");
     }
 }
